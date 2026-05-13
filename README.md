@@ -1,1 +1,1 @@
-# linux_cwiczenia_git
+# linux_cwiczenia_gitinfo about this project
